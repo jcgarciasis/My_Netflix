@@ -1,0 +1,6 @@
+# configuration
+DATABASE = 'flaskr.db'
+DEBUG = False
+SECRET_KEY = '\x94Sq;\xb8~\x94>\x8ci08\xd7\xf3xT\\\x96h\x05H\xea\xcd\xb7'
+USERNAME = 'jcgarciasis'
+PASSWORD = 'pass'
